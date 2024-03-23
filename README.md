@@ -19,7 +19,7 @@
 
   <div style="flex-basis: 60%;">
     <h3>Learning and Using</h3>
-    <img align="center" alt="MongoDb" height="30" width="40" src="https://i.imgur.com/fBtowuH.png">
+    <img align="center" alt="Stix" height="30" width="40" src="https://i.imgur.com/L4UsAot.png">
     <img align="center" alt="MySQL" height="30" width="40" src="https://i.imgur.com/YnHNs60.png">
     <img align="center" alt="MongoDB" height="30" width="40" src="https://i.imgur.com/Fadf4pi.png">
     <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
