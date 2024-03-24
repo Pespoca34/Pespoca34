@@ -12,10 +12,9 @@
 </details>
 
 <div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pespoca34&show_icons=true&theme=dracula"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Pespoca34&show_icons=true&theme=dracula"/>
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pespoca34&layout=compact&langs_count=16&theme=dracula"/>
 </div>
-
 
 ## 🔥 Languages and Tools 🔥
 
