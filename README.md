@@ -11,8 +11,10 @@
   - ⚡ I enjoy reading and studying a lot of different things, I also enjoy do magic tricks and play some soccer. I want to travel around the world, just imagine how crazy to say: "I've been in every country on earth" \o/.
 </details>
 
-
-![Pedros GitHub stats](https://github-readme-stats.vercel.app/api?username=Pespoca34&show_icons=true&theme=onedark)
+<div>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pespoca34&show_icons=true&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pespoca34&layout=compact&langs_count=16&theme=dracula"/>
+</div>
 
 
 ## 🔥 Languages and Tools 🔥
