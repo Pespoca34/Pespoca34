@@ -6,7 +6,7 @@
 <details>
   <summary> More about me 🤗</summary>
 
-  - 💬 I'm 20 years old, currently living in Portugal. I have fluency in English and have experience with Python, MySQL, MangoDB. I'm actually doing a trial in AbuseTotal for an internship, more focused in CiberSecurity and BackEnd.
+  - 💬 I'm 20 years old, currently living in Portugal. I have fluency in English and have experience with Python, MySQL, MangoDB. I'm actually doing a internship in AbuseTotal, more focused in CiberSecurity and BackEnd.
 
   - ⚡ I enjoy reading and studying a lot of different things, I also enjoy do magic tricks and play some soccer. I want to travel around the world, just imagine how crazy to say: "I've been in every country on earth" \o/.
 </details>
