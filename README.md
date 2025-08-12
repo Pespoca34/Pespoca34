@@ -36,8 +36,5 @@
     <td>
       <img src="https://i.imgur.com/VXERnS6.gif" alt="GIF" width="300"/>
     </td>
-    <td>
-      <img src="https://spotify-github-profile.vercel.app/api/view?uid=4wzfs8u2hed05h6555of0tbcz&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=True)](https://github.com/kittinan/spotify-github-profile" alt="Spotify GitHub Profile" width="250" height="300" />
-    </td>
   </tr>
 </table>
